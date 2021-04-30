@@ -38,3 +38,10 @@ https://user-images.githubusercontent.com/55047001/116724750-57296b00-a9e1-11eb-
 
 ## Author(s)/Contributor(s)
 - [Sykzen](https://github.com/Sykzen) 
+
+## KeyWord
+- Publier automatiquement sur Ebay
+- Bot Ebay
+- API Ebay
+- Ecommerce API Website
+- API Ebay
